@@ -14,7 +14,7 @@ As imagens utilizadas neste projeto foram obtidas do site Kaggle. Você pode ace
 
 Para ilustrar a eficácia do nosso modelo, abaixo está a matriz de confusão gerada durante a avaliação:
 
-![Matriz de Confusão](C:\Users\familia\Portfólio\Projeto-Alzheimer\imagem\matrizdeconfusão.PNG)
+![Matriz de Confusão] (imagem/matrizdeconfusão.PNG)
 
 ## Desafios e Próximas Etapas
 
